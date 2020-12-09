@@ -7,7 +7,7 @@
     <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
     </a>
     &emsp;
-    <a href="mailto:shivamgohri93@gmail.com">
+    <a href="https://mailto:shivamgohri93@gmail.com">
     <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
     &emsp;
