@@ -7,7 +7,7 @@
     <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
     </a>
     &emsp;
-    <a href="mailto:shivamgohri93@gmail.com">
+    <a href="mailto:shivamgohri93@gmail.com?Subject=Hey%20there!">
     <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
     &emsp;
@@ -37,6 +37,6 @@ Apart from developing stuff, I enjoy listening music 🎧 and traveling 🗻.
 - ✈️ Hire me for remote work.
 - 👨‍💻 Incoming Software Developer Engineer Intern [@Amazon](https://amazon.com).
 - 🙏🏻 Trying to give back to community
-- 💬 Feel free to reach out to me anytime / <a href="mailto:shivamgohri93@gmail.com?subject=Hey%20there!">shivamgohri93@gmail.com</a>
+- 💬 Feel free to reach out to me anytime / <a href="mailto:shivamgohri93@gmail.com?Subject=Hey%20there!">shivamgohri93@gmail.com</a>
 
 ⭐️ Take a look at my repositories [here](https://github.com/shivamgohri?tab=repositories)
